@@ -19,8 +19,7 @@ const campingparkAbersee: CampsiteConfig = {
   see: "Wolfgangsee",
   regionLong: "Wolfgangsee · Salzkammergut · Österreich",
 
-  theme: "editorial",
-  heroVariant: "left",
+  heroVariant: "center",
 
   claim: "Ein paar Schritte zum eigenen Badeplatz am Wolfgangsee",
   claimEmphasis: "am Wolfgangsee",
