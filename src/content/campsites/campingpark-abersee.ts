@@ -34,7 +34,7 @@ const campingparkAbersee: CampsiteConfig = {
   pillars: [
     {
       title: "Viel Wiese, viel Freiraum",
-      text: "Ein ruhiger Campingplatz inmitten grüner Wiesen mit viel Freiraum – Platz zum Durchatmen, die Berge des Salzkammerguts immer im Blick.",
+      text: "Ein ruhiger Campingplatz inmitten grüner Wiesen – Platz zum Durchatmen, die Berge des Salzkammerguts immer im Blick.",
       image: { src: `${IMG}/wiese-berge.webp`, alt: "Weite Wiesen im Campingpark Abersee mit den Bergen des Salzkammerguts" },
     },
     {
